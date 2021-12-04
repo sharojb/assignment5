@@ -6,7 +6,7 @@
 }
 
 body{
-    background: aliceblue;
+    background: #e7d8e2;
 }
 
 .container{
@@ -28,12 +28,13 @@ nav ul li{
 nav a{
     text-decoration: none;
     color: white;
-    background: orange;
+    background: #9f0d3c;
     padding: 5px;
+    border-radius: 3px
 }
 
 .contact-form {
-    background: lightblue; 
+    background:#9f0d3c; 
     padding: 20px;
     max-width: 500px;
     border-radius: 8px;
@@ -50,7 +51,7 @@ nav a{
 
 .reset input,
 .submit input {
-    background: orange;
+    background: black;
     color: white;
     padding: 5px 20px;
 }
