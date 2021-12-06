@@ -8,7 +8,7 @@
 }
 
 body{
-    background: aliceblue;
+    background: #e7d8e2;
 }
 
 .container{
@@ -30,8 +30,9 @@ nav ul li{
 nav a{
     text-decoration: none;
     color: white;
-    background: orange;
+    background: #9f0d3c;
     padding: 5px;
+    border-radius: 3px
 }
 
 footer{
@@ -40,6 +41,11 @@ footer{
     text-align: center;
     padding: 20px 0;
 }
+
+h1:first-letter {
+    color: #9f0d3c;
+}
+
 </style>
 
 <header>
@@ -59,5 +65,5 @@ footer{
 </div>
 
 <footer>
-    <p>This page designed by Sharolayn</p>
+    <p>This page designed by Sharolayn Jarque</p>
 </footer>
